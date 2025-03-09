@@ -1,0 +1,45 @@
+[{
+  "_id": "15",
+  "cliente": {
+    "id": 15,
+    "nome": "Brandon Clayton"
+  },
+  "data_pedido": "2024/02/25",
+  "itens": [
+    {
+      "produto": "Mouse",
+      "quantidade": 2,
+      "preco": 4414.86
+    }
+  ]
+},
+{
+  "_id": "81",
+  "cliente": {
+    "id": 81,
+    "nome": "Andrew Villa"
+  },
+  "data_pedido": "2024/02/29",
+  "itens": [
+    {
+      "produto": "Teclado",
+      "quantidade": 5,
+      "preco": 3398.87
+    }
+  ]
+},
+{
+  "_id": "98",
+  "cliente": {
+    "id": 98,
+    "nome": "Brittany Bennett"
+  },
+  "data_pedido": "2024/02/27",
+  "itens": [
+    {
+      "produto": "Notebook",
+      "quantidade": 1,
+      "preco": 1592.82
+    }
+  ]
+}]
